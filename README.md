@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
