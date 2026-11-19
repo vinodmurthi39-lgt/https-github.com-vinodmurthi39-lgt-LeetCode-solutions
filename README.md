@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -19,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
