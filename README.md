@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vinodmurthi39-lgt/https-github.com-vinodmurthi39-lgt-LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
